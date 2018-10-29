@@ -1,5 +1,10 @@
 # plotformatter
 
+**plotformatter is currently in development and only supports the following plots:**
+
+- scatter plots
+
+
 ## Installation <a name="installation"></a>
 
 #### Dependencies
@@ -22,10 +27,5 @@ the easiest way to install mpl_sns_viz is using `pip`
 
 The purpose of this package to to make visuzalizations in projects easier,
 more concise, and appealing.
-
-**plotformatter is currently in development and only supports the following plots:**
-
-- scatter plots
-
 
 
